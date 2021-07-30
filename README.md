@@ -14,7 +14,7 @@
   ## Usage
   npm run start
 <!--   [Link to portfolio](https://ayotai.github.io/react-portfolio/) -->
-  ![screenshot](../client/public/images/booksSS.PNG)
+  ![screenshot](./client/public/images/booksSS.PNG)
   
   ## Credits
   Stackedoverflow.com
