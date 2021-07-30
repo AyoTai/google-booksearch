@@ -13,7 +13,7 @@
 
   ## Usage
   npm run start
-<!--   [Link to portfolio](https://ayotai.github.io/react-portfolio/) -->
+  [Link to deployed](https://dry-plains-35403.herokuapp.com/)
   ![screenshot](./client/public/images/booksSS.PNG)
   
   ## Credits
